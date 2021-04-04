@@ -1,0 +1,7 @@
+C:\Users\Sony Vaio\source\repos\FilterByAge\bin\Debug\FilterByAge.exe.config
+C:\Users\Sony Vaio\source\repos\FilterByAge\bin\Debug\FilterByAge.exe
+C:\Users\Sony Vaio\source\repos\FilterByAge\bin\Debug\FilterByAge.pdb
+C:\Users\Sony Vaio\source\repos\FilterByAge\obj\Debug\FilterByAge.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\source\repos\FilterByAge\obj\Debug\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\source\repos\FilterByAge\obj\Debug\FilterByAge.exe
+C:\Users\Sony Vaio\source\repos\FilterByAge\obj\Debug\FilterByAge.pdb
